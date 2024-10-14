@@ -1,0 +1,192 @@
+body
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#divflex{
+flex-direction: column;
+font-family:Helvetica, sans-serif;
+}
+#divflex2
+{
+  flex-direction: column;
+  justify-content: center; 
+  font-family:Helvetica, sans-serif;
+}
+#div
+{
+    display: flex;
+    font-family: Helvetica, sans-serif;
+}
+#title {
+  background-color:rgb(196, 196, 196);
+  flex-grow: 1;
+  font-size: 25px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#em {
+  background-color:rgb(214, 214, 214);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  font-size: 2em;
+  align-items: center;
+  justify-content: center;
+}
+#ex {
+  background-color:rgb(196, 196, 196);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  font-size: 2ex;
+  justify-content: center;
+}
+#ch {
+  background-color:rgb(214, 214, 214);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2ch;
+}
+#rem {
+  background-color:rgb(196, 196, 196);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
+#vw {
+  background-color:rgb(214, 214, 214);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2vw;
+}
+#vh {
+  background-color:rgb(196, 196, 196);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2vh;
+}
+#vmin {
+  background-color:rgb(214, 214, 214);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2vmin;
+}
+#vmax {
+  background-color:rgb(196, 196, 196);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2vmax;
+}
+#prosent {
+  background-color:rgb(214, 214, 214);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 80%;
+}
+#title2 {
+  background-color:rgb(196, 196, 196);
+  flex-grow: 1;
+  font-size: 20px;
+  height: 50px;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+}
+#em1 {
+  background-color:rgb(214, 214, 214);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+}
+#ex1 {
+  background-color:rgb(196, 196, 196);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+}
+#ch1 {
+  background-color:rgb(214, 214, 214);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+}
+#rem1 {
+  background-color:rgb(196, 196, 196);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+}
+#vw1 {
+  background-color:rgb(214, 214, 214);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+}
+#vh1 {
+  background-color:rgb(196, 196, 196);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+}
+#vmin1 {
+  background-color:rgb(214, 214, 214);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+}
+#vmax1 {
+  background-color:rgb(196, 196, 196);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+}
+#prosent1 {
+  background-color:rgb(214, 214, 214);
+  flex-grow: 1;
+  height: 50px;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+}
